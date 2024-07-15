@@ -7,8 +7,9 @@
 </head>
 <body>
 
-<P1>hi I'm Jaktorn</P1>
-<P1>I can learn React at Kmutnb</P1>
+<h1>hi I'm Jaktorn</h1>
+<P>I can learn React at Kmutnb</P>
+<P>study Github Desktop/P>
 
 </body>
 </html>
