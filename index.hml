@@ -7,9 +7,8 @@
 </head>
 <body>
 
-<header>
-    <h1>สวัสดี, นี่คือหน้าเว็บ HTML แบบง่าย</h1>
-</header>
+<P1>hi I'm Jaktorn</P1>
+<P1>I can learn React at Kmutnb</P1>
 
 </body>
 </html>
